@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-12T22:43:59.069Z'
-dateModified: '2016-02-12T22:43:50.560Z'
+datePublished: '2016-02-12T22:50:32.188Z'
+dateModified: '2016-02-12T22:50:29.432Z'
 title: My Etsy Shop
 author: []
+sourcePath: _posts/2016-02-12-my-etsy-shop.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-my-etsy-shop.md
-published: true
 url: my-etsy-shop/index.html
 _type: WebPage
 

@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-02-12T18:49:27.630Z'
-dateModified: '2016-02-12T16:18:44.390Z'
+datePublished: '2016-02-12T18:50:10.736Z'
+dateModified: '2016-02-12T18:50:10.496Z'
 author: []
 title: Handmade Jewelry
 sourcePath: _posts/2016-02-12-handmade-jewelry.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Handmade Jewelry
-![Working on some jewelry tonight, had a slight set back this weekend so all new items will be listed by next Monday but as always if you see anything you like shoot me a message and I can put it aside for you #update #instaartist #jewelry #mycraftylife #myetsyshop #mywork #new #etsy #etsyusa #etsyhunter #craftsposure #crafty #unique #earrings #necklace #new #Talnts](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c97a42a3904c8c511300a26ccf365cb1ce0b0356.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b738272ccf7f8684e83832c1dfa5c3123062b7c8.jpg)

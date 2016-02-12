@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some items available in my shop
-datePublished: '2016-02-12T22:09:49.794Z'
-dateModified: '2016-02-12T22:09:39.249Z'
+datePublished: '2016-02-12T22:13:24.640Z'
+dateModified: '2016-02-12T22:13:00.023Z'
 title: Heart and Key Necklace
 author: []
+sourcePath: _posts/2016-02-12-heart-and-key-necklace.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-heart-and-key-necklace.md
-published: true
 url: heart-and-key-necklace/index.html
 _type: WebPage
 

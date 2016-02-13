@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-13T16:16:51.108Z'
-dateModified: '2016-02-13T16:15:33.299Z'
+datePublished: '2016-02-13T21:30:38.332Z'
+dateModified: '2016-02-13T21:28:54.109Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -22,16 +22,16 @@ url: my-etsy-shop/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89bf7d95-9863-4da3-afd8-70afa76bfe95.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f19fd46fbcfdae89db611691feeacc1c112323.jpg)
 
 [Nope Cuff][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ec89ee-6e16-4cb3-b0e8-a0870ad6c4b5.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6bcf26738619aa831a31c557988ac1bb4ecb007.jpg)
 
 [Diamond Ring][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8a8d5ed-7d62-470b-97ea-71b6e341e83c.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a5c5075a4805cd4830005bf6fc7b9e223a901e0.jpg)
 
 [Triangle Scarf][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5d8d677-dfa5-4bff-9244-e5df26077c7f.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ed3f0fd6dcec883c2f381622483c28ae8fdd74.jpg)
 
 [Heart and Key Necklace][3]
 

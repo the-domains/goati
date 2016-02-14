@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Bags past and present
-datePublished: '2016-02-14T18:10:05.083Z'
-dateModified: '2016-02-14T18:10:01.486Z'
+description: ''
+datePublished: '2016-02-14T19:19:29.868Z'
+dateModified: '2016-02-14T19:19:25.048Z'
 author: []
 title: Slouchy hobo bags
 sourcePath: _posts/2016-02-14-slouchy-hobo-bags.md

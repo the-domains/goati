@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T19:19:29.868Z'
-dateModified: '2016-02-14T19:19:25.048Z'
+datePublished: '2016-02-14T19:27:18.467Z'
+dateModified: '2016-02-14T19:27:12.573Z'
 author: []
 title: Slouchy hobo bags
 sourcePath: _posts/2016-02-14-slouchy-hobo-bags.md
@@ -24,6 +24,8 @@ _type: Article
 
 ---
 # Slouchy hobo bags
+
+past and present.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c41122d-b992-4ebd-9819-7dc2f694cfac.png)
 
 .

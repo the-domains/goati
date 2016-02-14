@@ -1,21 +1,27 @@
 ---
-description: A Love of Sewing
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:b13beece-89ca-4d49-9b6e-2f7afddbe331'
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2016-02-14T20:51:12.656Z'
+dateModified: '2016-02-14T20:50:59.036Z'
 author: []
-datePublished: '2016-02-14T02:24:03.694Z'
+title: A Love of Making
+sourcePath: _posts/2016-02-14-a-love-of-sewing.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: 'A Love of Sewing '
-dateModified: '2016-02-14T02:23:06.512Z'
-sourcePath: _posts/2016-02-14-a-love-of-sewing.md
-published: true
-starred: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-love-of-sewing/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# A Love of Sewing ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4c8c08-3d86-4140-84ea-0d64ce9d3ae7.png)
+# A Love of Making
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c254b0d27760baf4f7599ca1f407ceca63b8b362.png)

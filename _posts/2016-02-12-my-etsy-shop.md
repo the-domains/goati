@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-17T18:41:24.541Z'
-dateModified: '2016-02-17T18:41:21.209Z'
+datePublished: '2016-02-17T18:45:11.536Z'
+dateModified: '2016-02-17T18:45:09.033Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -45,7 +45,7 @@ A Sampling of items in my shop.
 
 [Brass Glasses Necklace][6]
 
-[0]: https://www.etsy.com/listing/265871915/nope-cuff?ref=listing-shop-header-1
+[0]: https://www.etsy.com/listing/265871915/nope-cuff?ref=shop_home_active_2
 [1]: https://www.etsy.com/listing/265969074/diamond-ring?ref=shop_home_active_5
 [2]: https://www.etsy.com/listing/217187318/double-triangle-scarf-in-neutral?ref=shop_home_feat_1
 [3]: https://www.etsy.com/listing/267470658/heart-and-key-two-strand-necklace?ref=listing-shop-header-0

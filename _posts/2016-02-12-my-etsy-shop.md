@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-17T18:49:11.066Z'
-dateModified: '2016-02-17T18:49:05.328Z'
+datePublished: '2016-02-17T18:53:01.683Z'
+dateModified: '2016-02-17T18:50:27.255Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 A Sampling of items in my shop.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f19fd46fbcfdae89db611691feeacc1c112323.jpg)
 
 [Nope Cuff][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f19fd46fbcfdae89db611691feeacc1c112323.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6bcf26738619aa831a31c557988ac1bb4ecb007.jpg)
 
 [Diamond Ring][1]

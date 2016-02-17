@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-17T17:41:54.386Z'
-dateModified: '2016-02-17T17:41:51.723Z'
+datePublished: '2016-02-17T18:41:24.541Z'
+dateModified: '2016-02-17T18:41:21.209Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -38,8 +38,10 @@ A Sampling of items in my shop.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c20f629-d76f-42e0-82ed-9a7f14ed8e92.JPG)
 
 [Bug Wing in a Bottle][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a351579-2bc5-4eca-9c8c-bffe09c27e81.JPG)
 
 [Black Tooth Curiosity ][5]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af5d66fd-79b2-4418-80e0-4aab0cbdcbce.JPG)
 
 [Brass Glasses Necklace][6]
 

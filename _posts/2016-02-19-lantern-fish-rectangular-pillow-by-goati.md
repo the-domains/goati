@@ -17,8 +17,8 @@ keywords:
   - rectangular
   - zipper
 description: Buy Lantern Fish Rectangular Pillow by GoAti.
-datePublished: '2016-02-19T18:11:40.051Z'
-dateModified: '2016-02-19T18:11:27.702Z'
+datePublished: '2016-02-19T18:13:10.446Z'
+dateModified: '2016-02-19T18:13:05.562Z'
 author: []
 related: []
 app_links: []

@@ -16,23 +16,23 @@ keywords:
   - angler
   - rectangular
   - zipper
-description: Buy Lantern Fish Rectangular Pillow by GoAti. Worldwide shipping available at Society6.com. Just one of millions of high quality products available.
-datePublished: '2016-02-19T17:40:28.941Z'
-dateModified: '2016-02-19T17:39:51.595Z'
+description: 'Buy Lantern Fish Rectangular Pillow by GoAti. Worldwide shipping available at Society6.com. '
+datePublished: '2016-02-19T17:45:46.779Z'
+dateModified: '2016-02-19T17:45:30.641Z'
 author: []
 related: []
 app_links: []
 title: Lantern Fish Rectangular Pillow by GoAti
+sourcePath: _posts/2016-02-19-lantern-fish-rectangular-pillow-by-goati.md
+published: true
 authors: []
 publisher:
   name: Society6
   domain: society6.com
   url: 'https://society6.com'
   favicon: 'https://society6.com/favicon.ico'
-sourcePath: _posts/2016-02-19-lantern-fish-rectangular-pillow-by-goati.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Lantern Fish Rectangular Pillow by GoAti</h1><p>Buy Lantern Fish Rectangular Pillow by GoAti&amp;period; Worldwide shipping available at Society6&amp;period;com&amp;period; Just one of millions of high quality products available&amp;period;</p><img src="https://01.img.society6.com/society6/img/xBk9xsXvYTWglrc0Z6vWqlVqXVk/w_550,h_550/rectangular-pillows/small/front/~artwork/s6-0041/a/18909514_12954751.jpg?wait=1" /></article>
+<article style=""><h1>Lantern Fish Rectangular Pillow by GoAti</h1><p>Buy Lantern Fish Rectangular Pillow by GoAti. Worldwide shipping available at Society6.com. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f997015fdb12812c817a3d505e9fc7a601e6b2e.jpg" /></article>

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-20T02:36:59.887Z'
-dateModified: '2016-02-20T02:36:58.486Z'
+datePublished: '2016-02-20T02:49:07.921Z'
+dateModified: '2016-02-20T02:49:07.607Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -23,27 +23,27 @@ _type: WebPage
 
 ---
 A Sampling of items in my shop.
-
-[Nope Cuff][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d29e9da68a85e40096e5fa3efd88d80b796e16b.jpg)
 
-[Diamond Ring][1]
+[Nope Cuff][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/433c65b5fb18a5df7679c70d9ff54516ca4edf25.jpg)
 
-[Triangle Scarf][2]
+[Diamond Ring][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28c7cde7e65528f4db59ea27ac0b99e139400e74.jpg)
 
-[Heart and Key Necklace][3]
+[Triangle Scarf][2]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27399d32b8ddcdd6656c2ef17dbba88ca0c4275.jpg)
 
-[Bug Wing in a Bottle][4]
+[Heart and Key Necklace][3]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a899175566bcf2bbbcb112b8c814f3be1bc3c32.jpg)
 
-[Black Tooth Curiosity ][5]
+[Bug Wing in a Bottle][4]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59c93fc70459fa88da54932a839bbb2612936b57.jpg)
 
-[Brass Glasses Necklace][6]
+[Black Tooth Curiosity ][5]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf38d598908fc0ddd39352d428b1f6ead2ffa9a.jpg)
+
+[Brass Glasses Necklace][6]
 
 [0]: https://www.etsy.com/listing/265871915/nope-cuff?ref=shop_home_active_2
 [1]: https://www.etsy.com/listing/265969074/diamond-ring?ref=shop_home_active_5

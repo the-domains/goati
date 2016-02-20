@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-20T02:49:07.921Z'
-dateModified: '2016-02-20T02:49:07.607Z'
+datePublished: '2016-02-20T03:12:55.425Z'
+dateModified: '2016-02-20T03:12:55.155Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -24,6 +24,8 @@ _type: WebPage
 ---
 A Sampling of items in my shop.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d29e9da68a85e40096e5fa3efd88d80b796e16b.jpg)
+
+.
 
 [Nope Cuff][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/433c65b5fb18a5df7679c70d9ff54516ca4edf25.jpg)

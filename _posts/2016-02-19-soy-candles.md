@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'More to come soon!'
-datePublished: '2016-02-20T04:27:28.055Z'
-dateModified: '2016-02-20T04:27:08.660Z'
+datePublished: '2016-02-20T04:28:19.746Z'
+dateModified: '2016-02-20T04:27:36.973Z'
 author: []
 title: Soy Candles
 sourcePath: _posts/2016-02-19-soy-candles.md

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-20T03:32:06.249Z'
-dateModified: '2016-02-20T03:27:41.037Z'
+datePublished: '2016-02-20T03:35:57.573Z'
+dateModified: '2016-02-20T03:35:07.780Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,10 +25,22 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7dbd36d3325f8fe51e72973ade24bcd5d08f62.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c504478eea254f8355d8ded13ee222a45bb7fffd.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5fdddca8e8fc194f9132357fcadb0594af297d1.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/852c6436ad31db955d58170ad64f5a8e8f87999d.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/888e625518a617f138eeda78f008961fcb76a7fa.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b699927f374e7733d026fc3ce0b898a30e6f894.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b61b4ecbc2464a75f3c91048893d737115630c52.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1066f477bccc8551480c0b3f4adc98c055b90f8e.jpg)
+
+.Diamond Ring
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/508ef0ee09b098768a1ef76a6e75210d726d2405.jpg)
+
+.Double Triangle Scarf
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ec3d072ba241c70274b096ed36dad9c3281844f.jpg)
+
+.Key to My Heart Necklace
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d1dc95b44ad89a7a5c6ffffe52fb8f046f47624.jpg)
+
+.Bug Wing in a Bottle
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc5f8ce6f5601aae407dcdcec3153e83d3841a7.jpg)
+
+.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b255917934707dc6a03344e45b3d39bfbfebfeb0.jpg)
+
+.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5653609f7ae6a8dc6e5aa9e4ef07b65ae7c8e89.jpg)

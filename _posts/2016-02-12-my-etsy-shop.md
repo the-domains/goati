@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-20T03:27:27.197Z'
-dateModified: '2016-02-20T03:26:32.819Z'
+datePublished: '2016-02-20T03:32:06.249Z'
+dateModified: '2016-02-20T03:27:41.037Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ## A Sampling of items in my shop.
 
-_Click on the images for more info_
+Click on the images for more info
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7dbd36d3325f8fe51e72973ade24bcd5d08f62.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c504478eea254f8355d8ded13ee222a45bb7fffd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5fdddca8e8fc194f9132357fcadb0594af297d1.jpg)

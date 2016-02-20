@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-02-12T18:50:10.736Z'
-dateModified: '2016-02-12T18:50:10.496Z'
+datePublished: '2016-02-20T03:13:13.946Z'
+dateModified: '2016-02-20T03:13:13.701Z'
 author: []
 title: Handmade Jewelry
 sourcePath: _posts/2016-02-12-handmade-jewelry.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Handmade Jewelry
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b738272ccf7f8684e83832c1dfa5c3123062b7c8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/09beec44156e45b03ee729b967e63d874d3171d8.jpg)

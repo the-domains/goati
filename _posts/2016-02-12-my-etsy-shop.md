@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-19T21:13:40.442Z'
-dateModified: '2016-02-19T21:13:39.423Z'
+datePublished: '2016-02-20T02:36:59.887Z'
+dateModified: '2016-02-20T02:36:58.486Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -23,27 +23,27 @@ _type: WebPage
 
 ---
 A Sampling of items in my shop.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c91688b7a16542b26c79e108a2b4e264c4bf6d.jpg)
 
 [Nope Cuff][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6bcf26738619aa831a31c557988ac1bb4ecb007.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d29e9da68a85e40096e5fa3efd88d80b796e16b.jpg)
 
 [Diamond Ring][1]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a5c5075a4805cd4830005bf6fc7b9e223a901e0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/433c65b5fb18a5df7679c70d9ff54516ca4edf25.jpg)
 
 [Triangle Scarf][2]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ed3f0fd6dcec883c2f381622483c28ae8fdd74.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28c7cde7e65528f4db59ea27ac0b99e139400e74.jpg)
 
 [Heart and Key Necklace][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c20f629-d76f-42e0-82ed-9a7f14ed8e92.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27399d32b8ddcdd6656c2ef17dbba88ca0c4275.jpg)
 
 [Bug Wing in a Bottle][4]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a351579-2bc5-4eca-9c8c-bffe09c27e81.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a899175566bcf2bbbcb112b8c814f3be1bc3c32.jpg)
 
 [Black Tooth Curiosity ][5]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af5d66fd-79b2-4418-80e0-4aab0cbdcbce.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59c93fc70459fa88da54932a839bbb2612936b57.jpg)
 
 [Brass Glasses Necklace][6]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf38d598908fc0ddd39352d428b1f6ead2ffa9a.jpg)
 
 [0]: https://www.etsy.com/listing/265871915/nope-cuff?ref=shop_home_active_2
 [1]: https://www.etsy.com/listing/265969074/diamond-ring?ref=shop_home_active_5

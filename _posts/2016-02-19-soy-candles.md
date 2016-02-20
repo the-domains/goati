@@ -6,19 +6,19 @@ isBasedOnUrl: 'https://www.etsy.com/listing/235948920/island-laundry-soy-candle?
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-19T18:25:47.927Z'
-dateModified: '2016-02-19T18:25:30.240Z'
+description: 'More to come soon!'
+datePublished: '2016-02-20T00:29:52.753Z'
+dateModified: '2016-02-20T00:29:01.326Z'
 author: []
 title: Soy Candles
+sourcePath: _posts/2016-02-19-soy-candles.md
+published: true
 authors: []
 publisher:
   name: etsy.com
   domain: www.etsy.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-soy-candles.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 

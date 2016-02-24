@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-20T03:41:03.895Z'
-dateModified: '2016-02-20T03:39:01.154Z'
+datePublished: '2016-02-24T22:17:54.552Z'
+dateModified: '2016-02-24T22:17:48.562Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,24 +25,24 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1066f477bccc8551480c0b3f4adc98c055b90f8e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5712131037081dfd79359c95f6de06f73391be1.jpg)
 
 Diamond Ring
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/508ef0ee09b098768a1ef76a6e75210d726d2405.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b7c2f4100a07b5950486d51cf0cbac7367680f6.jpg)
 
 Double Triangle Scarf
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ec3d072ba241c70274b096ed36dad9c3281844f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24fb8fbc7e3996c762f5e677ea969c6b79cc2ca.jpg)
 
 Key to My Heart Necklace
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d1dc95b44ad89a7a5c6ffffe52fb8f046f47624.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf06fbf6e1fbc29af869b38edb6231c7f2a6652e.jpg)
 
 Bug Wing in a Bottle
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc5f8ce6f5601aae407dcdcec3153e83d3841a7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/955a87b3bb71aad3a607d492cb3fe85e6a0f4d5c.jpg)
 
 Black Tooth Curiosity
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b255917934707dc6a03344e45b3d39bfbfebfeb0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/811d2d261eb9a295ddb6b9de60ee45c1e281fd5f.jpg)
 
 Brass Glasses Necklace
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5653609f7ae6a8dc6e5aa9e4ef07b65ae7c8e89.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/84752f1876a1b74838099bc532f0296776133d44.jpg)
 
 Nope Cuff

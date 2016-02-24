@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-24T22:17:54.552Z'
-dateModified: '2016-02-24T22:17:48.562Z'
+datePublished: '2016-02-24T22:32:14.683Z'
+dateModified: '2016-02-24T22:32:09.869Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,6 +25,9 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f07d967-fa1a-48a3-8548-24562d55f08d.jpg)
+
+Raw Opal ring
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5712131037081dfd79359c95f6de06f73391be1.jpg)
 
 Diamond Ring

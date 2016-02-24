@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-24T22:55:54.497Z'
-dateModified: '2016-02-24T22:46:37.639Z'
+datePublished: '2016-02-24T23:02:20.249Z'
+dateModified: '2016-02-24T22:56:05.114Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md

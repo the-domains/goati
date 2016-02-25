@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-25T15:59:12.456Z'
-dateModified: '2016-02-25T15:58:24.686Z'
+datePublished: '2016-02-25T16:09:03.857Z'
+dateModified: '2016-02-25T16:09:02.710Z'
 title: 'Multi Brass Pendant Necklace '
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,7 +25,7 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355ddbaf-e6c4-4fb4-a9e6-ba09d8863d0d.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82217697-d310-4f58-91d8-ecc8d5241968.JPG)
 
 Multi Brass Pendant Necklace
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f07d967-fa1a-48a3-8548-24562d55f08d.jpg)

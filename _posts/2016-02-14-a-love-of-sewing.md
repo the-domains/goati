@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T19:04:34.870Z'
-dateModified: '2016-02-25T19:04:02.322Z'
+datePublished: '2016-02-25T19:10:10.160Z'
+dateModified: '2016-02-25T19:04:44.738Z'
 author: []
 title: A Love of Making
 sourcePath: _posts/2016-02-14-a-love-of-sewing.md

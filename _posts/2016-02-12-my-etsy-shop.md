@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Some Items in my shop
-datePublished: '2016-02-25T16:31:13.638Z'
-dateModified: '2016-02-25T16:29:46.809Z'
-title: 'Multi Brass Pendant Necklace '
+description: Some Items in my shop.
+datePublished: '2016-02-25T16:36:21.993Z'
+dateModified: '2016-02-25T16:36:02.583Z'
+title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
 published: true

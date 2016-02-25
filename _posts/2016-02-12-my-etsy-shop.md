@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-24T23:02:20.249Z'
-dateModified: '2016-02-24T22:56:05.114Z'
-title: My Etsy Shop
+datePublished: '2016-02-25T15:59:12.456Z'
+dateModified: '2016-02-25T15:58:24.686Z'
+title: 'Multi Brass Pendant Necklace '
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
 published: true
@@ -25,6 +25,9 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/355ddbaf-e6c4-4fb4-a9e6-ba09d8863d0d.JPG)
+
+Multi Brass Pendant Necklace
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f07d967-fa1a-48a3-8548-24562d55f08d.jpg)
 
 Raw Opal ring

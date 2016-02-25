@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop
-datePublished: '2016-02-25T16:29:33.157Z'
-dateModified: '2016-02-25T16:29:13.129Z'
+datePublished: '2016-02-25T16:31:13.638Z'
+dateModified: '2016-02-25T16:29:46.809Z'
 title: 'Multi Brass Pendant Necklace '
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md

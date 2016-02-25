@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Some Items in my shop.
-datePublished: '2016-02-25T16:40:19.908Z'
-dateModified: '2016-02-25T16:38:08.597Z'
+datePublished: '2016-02-25T16:58:14.794Z'
+dateModified: '2016-02-25T16:57:57.173Z'
 title: My Etsy Shop
 author: []
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
@@ -25,9 +25,12 @@ _type: WebPage
 ## A Sampling of items in my shop.
 
 Click on the images for more info
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7aac1a6-f04f-40af-84fd-b3e87d0e35ce.JPG)
+
+Little Creature Necklace
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc48ad4658da1773a8bf396ffe950ddaf4ce00bd.jpg)
 
 Multi Brass Pendant Necklace
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc48ad4658da1773a8bf396ffe950ddaf4ce00bd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f07d967-fa1a-48a3-8548-24562d55f08d.jpg)
 
 Raw Opal ring

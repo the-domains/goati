@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T00:13:58.959Z'
-dateModified: '2016-02-25T00:00:16.878Z'
+datePublished: '2016-02-25T00:25:40.886Z'
+dateModified: '2016-02-25T00:22:45.061Z'
 author: []
 title: Dark Star Cellphone Case
+sourcePath: _posts/2016-02-25-dark-star-cellphone-case.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-dark-star-cellphone-case.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 

@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:b13beece-89ca-4d49-9b6e-2f7afddbe331'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-14T20:51:12.656Z'
-dateModified: '2016-02-14T20:50:59.036Z'
+datePublished: '2016-02-25T18:37:27.596Z'
+dateModified: '2016-02-25T18:37:27.434Z'
 author: []
 title: A Love of Making
 sourcePath: _posts/2016-02-14-a-love-of-sewing.md
@@ -19,9 +18,12 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: a-love-of-making/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # A Love of Making
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c254b0d27760baf4f7599ca1f407ceca63b8b362.png)
+
+I grew up with the hum of my Grandmothers sewing machine it was only natural that I took up sewing. I remember falling asleep on the sewing table and sorting her needles and buttons. Once I cut the cord to her foot pedal putzing around with the scissors, I hope if that happens to me I would handle it as well as she did...I doubt it...

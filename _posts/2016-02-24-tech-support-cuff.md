@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: GoAti on Instagram
-datePublished: '2016-02-24T21:05:26.807Z'
-dateModified: '2016-02-24T21:05:10.275Z'
+datePublished: '2016-03-05T18:50:58.952Z'
+dateModified: '2016-03-05T18:50:28.730Z'
 author: []
 title: Tech Support Cuff
 sourcePath: _posts/2016-02-24-tech-support-cuff.md

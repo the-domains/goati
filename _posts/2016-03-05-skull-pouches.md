@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "CARRY-ALL POUCH\t/ SET OF 3"
-datePublished: '2016-03-05T18:05:40.942Z'
-dateModified: '2016-03-05T18:05:21.262Z'
+datePublished: '2016-03-05T18:08:26.966Z'
+dateModified: '2016-03-05T18:08:17.248Z'
 author: []
 title: Skull Pouches
+sourcePath: _posts/2016-03-05-skull-pouches.md
+published: true
 authors: []
 publisher:
   name: society6.com
   domain: society6.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-skull-pouches.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 

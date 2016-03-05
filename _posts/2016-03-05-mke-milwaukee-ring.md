@@ -17,8 +17,8 @@ keywords:
   - thickness
   - gauge
 description: 'MKE hand stamped ring. '
-datePublished: '2016-03-05T18:32:25.861Z'
-dateModified: '2016-03-05T18:31:42.849Z'
+datePublished: '2016-03-05T18:38:19.114Z'
+dateModified: '2016-03-05T18:37:54.897Z'
 author: []
 related: []
 app_links:
@@ -48,14 +48,14 @@ app_links:
     name: Etsy
     id: com.etsy.android
 title: MKE (Milwaukee) Ring
+sourcePath: _posts/2016-03-05-mke-milwaukee-ring.md
+published: true
 authors: []
 publisher:
   name: Etsy
   domain: www.etsy.com
   url: 'https://www.etsy.com'
   favicon: 'https://www.etsy.com/images/favicon.ico'
-sourcePath: _posts/2016-03-05-mke-milwaukee-ring.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 

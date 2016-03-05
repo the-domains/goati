@@ -7,24 +7,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Aztec Print iPhone &amp; iPod Skin by GoAti | Society6'
-datePublished: '2016-02-14T18:28:00.868Z'
-dateModified: '2016-02-14T18:23:55.622Z'
+datePublished: '2016-03-05T18:45:52.445Z'
+dateModified: '2016-03-05T18:44:12.740Z'
 author: []
 title: 'Aztec print '
+sourcePath: _posts/2016-02-14-aztec-print.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-aztec-print.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Aztec print 
 
-<article style=""><h1>Aztec Print iPhone &amp; iPod Skin by GoAti</h1><p>Buy Aztec Print iPhone &amp; iPod Skin by GoAti. Worldwide shipping available at Society6.com. Just one of millions of high quality products available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82260e48a432d908ac1126bf9e33bc77262e034e.jpg" /></article>
+<article style=""><h1>Aztec Print iPhone &amp; iPod Skin by GoAti</h1><p>Buy Aztec Print iPhone &amp; iPod Skin by GoAti. Worldwide shipping available </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/453a48a17a0560c406cf0180c484e8b805d2c06e.jpg" /></article>
 
 Aztec Print iPhone & iPod Skin by GoAti | Society6

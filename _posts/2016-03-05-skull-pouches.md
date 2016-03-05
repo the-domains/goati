@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "CARRY-ALL POUCH\t/ SET OF 3"
-datePublished: '2016-03-05T18:08:26.966Z'
-dateModified: '2016-03-05T18:08:17.248Z'
+datePublished: '2016-03-05T18:41:05.080Z'
+dateModified: '2016-03-05T18:41:02.072Z'
 author: []
 title: Skull Pouches
 sourcePath: _posts/2016-03-05-skull-pouches.md

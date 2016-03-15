@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Aztec Print iPhone & iPod Skin by GoAti | Society6'
-datePublished: '2016-03-15T21:26:37.091Z'
-dateModified: '2016-03-15T21:24:13.475Z'
+datePublished: '2016-03-15T21:30:34.265Z'
+dateModified: '2016-03-15T21:26:46.054Z'
 author: []
 title: 'Aztec print '
 sourcePath: _posts/2016-02-14-aztec-print.md

@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:63888b34-b550-45af-99fc-120d1c80943c'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Aztec Print iPhone &amp; iPod Skin by GoAti | Society6'
-datePublished: '2016-03-15T21:24:04.580Z'
-dateModified: '2016-03-05T19:25:48.340Z'
+description: 'Aztec Print iPhone & iPod Skin by GoAti | Society6'
+datePublished: '2016-03-15T21:26:37.091Z'
+dateModified: '2016-03-15T21:24:13.475Z'
 author: []
 title: 'Aztec print '
 sourcePath: _posts/2016-02-14-aztec-print.md

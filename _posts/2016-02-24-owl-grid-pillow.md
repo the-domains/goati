@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T18:17:00.303Z'
-dateModified: '2016-03-16T18:14:25.822Z'
+datePublished: '2016-03-16T18:20:47.512Z'
+dateModified: '2016-03-16T18:17:09.675Z'
 author: []
 title: Owl Grid Pillow
 sourcePath: _posts/2016-02-24-owl-grid-pillow.md

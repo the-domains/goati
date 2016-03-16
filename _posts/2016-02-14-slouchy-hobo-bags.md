@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-14T19:27:18.467Z'
-dateModified: '2016-02-14T19:27:12.573Z'
+description: past and present.
+datePublished: '2016-03-16T18:43:07.470Z'
+dateModified: '2016-03-16T18:31:34.072Z'
 author: []
 title: Slouchy hobo bags
 sourcePath: _posts/2016-02-14-slouchy-hobo-bags.md
@@ -26,13 +26,13 @@ _type: Article
 # Slouchy hobo bags
 
 past and present.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c41122d-b992-4ebd-9819-7dc2f694cfac.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e77482312d964e5fb493c88f11579eb42a19fc82.png)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ed53fb6-b584-4f04-8cc1-b67d11c07a99.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff730544b32be7041b131c787a04be0f20f02455.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/558713cf-1aec-4eaf-89f7-1678132c2496.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11b8650e3c3486236970da71cd914f9f501cea15.jpg)
 
 .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/559043ac-4898-4bc6-9f8d-095b70ef09cd.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/820c9068c49634c9d5ce8504bc103fedb632d9f4.jpg)

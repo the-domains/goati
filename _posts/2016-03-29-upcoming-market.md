@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Shop Local
-datePublished: '2016-03-29T18:44:14.691Z'
-dateModified: '2016-03-29T18:43:38.007Z'
+datePublished: '2016-03-29T20:43:51.782Z'
+dateModified: '2016-03-29T18:44:22.642Z'
 title: Upcoming Market
 author: []
 sourcePath: _posts/2016-03-29-upcoming-market.md

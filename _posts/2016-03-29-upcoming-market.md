@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T17:13:34.681Z'
-dateModified: '2016-03-29T17:07:45.328Z'
+datePublished: '2016-03-29T17:17:33.583Z'
+dateModified: '2016-03-29T17:13:45.027Z'
 title: Upcoming Market
 author: []
 sourcePath: _posts/2016-03-29-upcoming-market.md

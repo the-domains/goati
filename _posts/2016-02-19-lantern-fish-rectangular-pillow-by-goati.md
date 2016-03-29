@@ -16,9 +16,9 @@ keywords:
   - angler
   - rectangular
   - zipper
-description: Buy Lantern Fish Rectangular Pillow by GoAti.
-datePublished: '2016-02-19T18:13:10.446Z'
-dateModified: '2016-02-19T18:13:05.562Z'
+description: Lantern Fish Rectangular Pillow by GoAti.
+datePublished: '2016-03-29T15:28:51.206Z'
+dateModified: '2016-03-29T15:28:28.901Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Lantern Fish Rectangular Pillow by GoAti</h1><p>Buy Lantern Fish Rectangular Pillow by GoAti.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea8061424792f037e8287c81179695a16cf0191.jpg" /></article>
+<article style=""><h1>Lantern Fish Rectangular Pillow by GoAti</h1><p>Lantern Fish Rectangular Pillow by GoAti.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df72cb165958ea225065654a5ac224811cc31cb9.jpg" /></article>

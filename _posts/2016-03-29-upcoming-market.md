@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-29T17:17:33.583Z'
-dateModified: '2016-03-29T17:13:45.027Z'
+description: Shop Local
+datePublished: '2016-03-29T18:44:14.691Z'
+dateModified: '2016-03-29T18:43:38.007Z'
 title: Upcoming Market
 author: []
 sourcePath: _posts/2016-03-29-upcoming-market.md
@@ -22,4 +22,5 @@ url: upcoming-market/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf09ca5-daca-4617-8726-9a339df61d75.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2b7545030750f1bbd8193506dd6636c1d8dfe3d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e65720-ed8c-4821-a5d1-ffa246216db8.jpg)

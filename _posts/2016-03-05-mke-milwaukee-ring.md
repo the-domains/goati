@@ -17,8 +17,8 @@ keywords:
   - thickness
   - gauge
 description: 'MKE hand stamped ring. '
-datePublished: '2016-03-05T18:38:19.114Z'
-dateModified: '2016-03-05T18:37:54.897Z'
+datePublished: '2016-03-31T03:49:14.275Z'
+dateModified: '2016-03-05T18:38:23.353Z'
 author: []
 related: []
 app_links:

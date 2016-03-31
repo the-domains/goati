@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: past and present.
-datePublished: '2016-03-31T03:21:09.142Z'
-dateModified: '2016-03-31T03:20:59.458Z'
+datePublished: '2016-03-31T03:23:43.022Z'
+dateModified: '2016-03-31T03:23:20.760Z'
 author: []
 title: Slouchy hobo bags
 sourcePath: _posts/2016-02-14-slouchy-hobo-bags.md

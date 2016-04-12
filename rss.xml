@@ -4,7 +4,7 @@
         <description><![CDATA[Funky Little Gift Shop]]></description>
         <link>http://goati.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 15:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 15:56:01 GMT</lastBuildDate>
         <atom:link href="http://goati.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cuffs ]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:a731f6ff-75ba-4a93-82fa-92faafec21d1</link>
             <guid isPermaLink="false">7b634aa4-3337-42a9-9afa-6b488501dd70</guid>
             <pubDate>Tue, 12 Apr 2016 15:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://img0.etsystatic.com/128/0/10264507/isbl_1680x420.18559734_p9hatg9h.jpg">]]></description>
+            <link>http://goati.info/258f8017-0435-43b0-ad4a-05a7f6aa2448/index.html</link>
+            <guid isPermaLink="false">258f8017-0435-43b0-ad4a-05a7f6aa2448</guid>
+            <pubDate>Tue, 12 Apr 2016 15:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handmade Jewelry]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.etsy.com/listing/211116794/festive-skully-greeting-card?ref=shop_home_active_14</link>
             <guid isPermaLink="false">490150b3-5e8d-484c-8d28-8722cc147aff</guid>
             <pubDate>Wed, 16 Mar 2016 18:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Owl Grid Pillow]]></title>
-            <description><![CDATA[<article><h1>Owl Grid Pillow</h1><p>Well I couldn't resist... With my owl and skull obsessions and free shipping plus it's probably good to see final results unfortunately my husband claimed it 😓 #society6 #myart #owl #skull #pillows #print #freeshipping</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e1426da9eeefc92e2fd99554cddd754ee14a3fa.jpg"></article>]]></description>
-            <link>urn:uuid:d89ff939-90f4-494d-8652-7fc5149b47ad</link>
-            <guid isPermaLink="false">138a3735-aa86-4802-82e2-f4be9a9d7ab0</guid>
-            <pubDate>Wed, 16 Mar 2016 18:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

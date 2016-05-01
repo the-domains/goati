@@ -1,7 +1,7 @@
 name: Goati
 favicon: null
-layout_spectrum: 0.68543
-typography_spectrum: 0
+layout_spectrum: 0.32233123085461557
+typography_spectrum: 0.6920815324410796
 collections:
   - index:
       path: /

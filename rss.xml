@@ -4,7 +4,7 @@
         <description><![CDATA[Funky Little Gift Shop]]></description>
         <link>http://goati.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 15:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 15:28:44 GMT</lastBuildDate>
         <atom:link href="http://goati.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.instagram.com/p/BEL6-NHqZZA/</link>
             <guid isPermaLink="false">b343941b-f686-455e-896b-231e2bbedf43</guid>
             <pubDate>Thu, 14 Apr 2016 16:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Etsy Shop]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128f0ecea33626c8b69a06c3bbbf9c23f50fb1c8.jpg" alt="" title="">]]></description>
+            <link>http://goati.info/my-etsy-shop/index.html</link>
+            <guid isPermaLink="false">03e9d734-a88e-416e-9844-53ddfc7a59e6</guid>
+            <pubDate>Fri, 13 May 2016 15:28:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aztec Print iPhone & iPod Skin by GoAti]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/Locust-Street-Festival-of-Music-and-Art-119283148109243/</link>
             <guid isPermaLink="false">c6e81597-660e-4178-8937-61db203ca931</guid>
             <pubDate>Thu, 31 Mar 2016 03:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nemophilist Definition Cuff]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33dee452a5641ad1aaa715be0203a9f60ce45510.jpg" alt="" title="">]]></description>
-            <link>https://www.etsy.com/listing/265870379/nemophilist-definition-cuff?ref=shop_home_active_15</link>
-            <guid isPermaLink="false">7a3824f3-d8ea-449f-b18c-d5d670bc6426</guid>
-            <pubDate>Thu, 31 Mar 2016 03:32:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

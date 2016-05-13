@@ -1,25 +1,26 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Some Items in my shop.
-datePublished: '2016-02-25T17:00:41.681Z'
-dateModified: '2016-02-25T17:00:38.376Z'
-title: My Etsy Shop
-author: []
+description: Raw Opal ring
+datePublished: '2016-05-13T15:28:38.143Z'
+dateModified: '2016-05-13T15:28:31.290Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-12-my-etsy-shop.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: my-etsy-shop/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## A Sampling of items in my shop.

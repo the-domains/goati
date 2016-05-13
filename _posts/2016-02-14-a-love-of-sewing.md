@@ -3,21 +3,22 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-25T19:47:31.700Z'
-dateModified: '2016-02-25T19:47:27.274Z'
-author: []
+description: 'I grew up with the hum of my Grandmothers sewing machine it was only natural that I took up sewing. I remember falling asleep on the sewing table and sorting her needles and buttons. Once I cut the cord to her foot pedal putzing around with the scissors, I hope if that happens to me I would handle it as well as she did...I doubt it...'
+datePublished: '2016-05-13T15:23:48.042Z'
+dateModified: '2016-05-13T15:23:32.319Z'
+author:
+  - name: ''
+    url: ''
 title: A Love of Making
 sourcePath: _posts/2016-02-14-a-love-of-sewing.md
-published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
+starred: false
 url: a-love-of-making/index.html
 _context: 'http://schema.org'
 _type: Article

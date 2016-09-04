@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Shop Now
+  - name: Etsy
     url: 'https://www.etsy.com/shop/GoAti'
     type: external
   - name: Facebook

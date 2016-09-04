@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T19:43:17.319Z'
+datePublished: '2016-09-01T19:50:56.772Z'
 sourcePath: _posts/2016-02-13-find-goati.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T19:43:16.928Z'
+dateModified: '2016-09-01T19:50:56.408Z'
 title: ''
 publisher: {}
 description: Social Media
@@ -20,7 +20,7 @@ _type: Article
 ---
 **Social Media**
 
-[Facebook][0]
+_**[Facebook][0]**_
 
 [Instagram][1]
 
@@ -33,7 +33,7 @@ _type: Article
 
 [Society6][4]
 
-[0]: https://www.facebook.com/goati.icleora/
+[0]: https://www.facebook.com/goatishop "Facebook page"
 [1]: https://www.instagram.com/goatishop/
 [2]: https://twitter.com/icleora1
 [3]: https://www.etsy.com/shop/GoAti

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T19:50:56.772Z'
+datePublished: '2016-09-01T19:54:49.562Z'
 sourcePath: _posts/2016-02-13-find-goati.md
 inFeed: true
 authors: []
@@ -7,14 +7,14 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T19:50:56.408Z'
+dateModified: '2016-09-01T19:54:49.315Z'
 title: ''
 publisher: {}
 description: Social Media
 inLanguage: null
 inNav: false
 starred: false
-url: find-goati/index.html
+url: facebook/index.html
 _type: Article
 
 ---

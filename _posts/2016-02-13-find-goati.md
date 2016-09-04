@@ -1,52 +1,40 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-13T21:30:30.093Z'
-dateModified: '2016-02-13T21:29:50.120Z'
-title: Find Goati
-author: []
+datePublished: '2016-09-01T19:43:17.319Z'
 sourcePath: _posts/2016-02-13-find-goati.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-09-01T19:43:16.928Z'
+title: ''
+publisher: {}
+description: Social Media
+inLanguage: null
+inNav: false
+starred: false
 url: find-goati/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ea2bd386e0815b1e5c468598f14493cd4bbece.png)
-
-****
-
-**Shop online:**
-
-[Etsy][0]
-
-[Society6][1]
-
-**Shop in person:**
-
-[Orange Gallery][2]
-
 **Social Media**
 
-[Facebook][3]
+[Facebook][0]
 
-[Instagram][4]
+[Instagram][1]
 
-[Twitter][5]
+[Twitter][2]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/77e02ae3d8ce3e9b48cd774e787f45f5eff579e9.png)
 
-[0]: https://www.etsy.com/shop/GoAti
-[1]: https://society6.com/goati
-[2]: http://orangegallerymke.com/
-[3]: https://www.facebook.com/goati.icleora/
-[4]: https://www.instagram.com/goatishop/
-[5]: https://twitter.com/icleora1
+## **Shop online:**
+
+[Etsy][3]
+
+[Society6][4]
+
+[0]: https://www.facebook.com/goati.icleora/
+[1]: https://www.instagram.com/goatishop/
+[2]: https://twitter.com/icleora1
+[3]: https://www.etsy.com/shop/GoAti
+[4]: https://society6.com/goati

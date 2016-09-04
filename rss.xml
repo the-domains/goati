@@ -4,8 +4,15 @@
         <description><![CDATA[Funky Little Gift Shop]]></description>
         <link>http://goati.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 19:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 19:54:52 GMT</lastBuildDate>
         <atom:link href="http://goati.info/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook]]></title>
+            <description><![CDATA[<p>Social Media</p>]]></description>
+            <link>http://goati.info/facebook/index.html</link>
+            <guid isPermaLink="false">0fbb06ec-caf6-48c1-a056-5f62bee8ae70</guid>
+            <pubDate>Thu, 01 Sep 2016 19:54:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook]]></title>
             <description><![CDATA[<p>Social Media</p>]]></description>
